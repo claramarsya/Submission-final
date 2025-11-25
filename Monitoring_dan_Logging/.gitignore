@@ -1,0 +1,6 @@
+/mlartifacts
+/mlflow.db
+/mlruns
+/myenv
+.env
+.env*
